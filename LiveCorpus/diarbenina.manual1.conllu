@@ -902,7 +902,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 901	коем	кой	DET	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#364.051#364.372
 902	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#364.372#364.693
 903	никаких	никакой	DET	_	Case=Gen|Number=Plur	_	_	_	words@dsa1974f#@dsa1974f#364.693#365.014
-904	папарацци	папарацец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@dsa1974f#@dsa1974f#365.014#365.335
+904	папарацци	папарацци	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@dsa1974f#@dsa1974f#365.014#365.335
 905	!	!	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#365.335#365.662
 906	ни	ни	PART	_	Polarity=Neg	_	_	_	words@dsa1974f#@dsa1974f#366.1#366.419
 907	в	в	ADP	_	_	_	_	_	words@dsa1974f#@dsa1974f#366.419#366.738
@@ -920,11 +920,11 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 919	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#370.247#370.566
 920	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#370.566#370.885
 921	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#370.885#371.204
-922	отвратительно	отвратительный	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#371.204#371.523
+922	отвратительно	отвратительно	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#371.204#371.523
 923	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#371.523#371.842
 924	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#371.842#372.161
 925	просто	просто	PART	_	_	_	_	_	words@dsa1974f#@dsa1974f#372.161#372.48
-926	мерзко	мерзкий	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#372.48#372.799
+926	мерзко	мерзко	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#372.48#372.799
 927	!	!	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#372.799#373.123
 928	почему	почему	ADV	_	Degree=Pos	_	_	_	words@iys1984f#@iys1984f#0.71#1.266
 929	/	/	PUNCT	_	_	_	_	_	words@iys1984f#@iys1984f#1.266#1.822
