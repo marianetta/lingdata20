@@ -333,7 +333,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 332	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#158.312#158.63
 333	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	words@dsa1974f#@dsa1974f#158.63#158.948
 334	с	с	ADP	_	_	_	_	_	words@dsa1974f#@dsa1974f#158.948#159.266
-335	сургановой	Сурганова	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#159.266#159.584
+335	сургановой	Сурганова	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#159.266#159.584
 336	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#159.584#159.902
 337	петь	петь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#159.902#160.22
 338	и	и	CCONJ	_	_	_	_	_	words@dsa1974f#@dsa1974f#160.22#160.538
