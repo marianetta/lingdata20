@@ -25,10 +25,10 @@
 22	и	и	CCONJ	_	_	_	_	_	words@iau1978m#@iau1978m#111.253#111.46
 23	ничего	ничто	PRON	_	Case=Gen	_	_	_	words@iau1978m#@iau1978m#111.46#111.728
 24	не	не	PART	_	_	_	_	_	words@iau1978m#@iau1978m#111.728#111.996
-25	мо...	мо...	ADV	_	Degree=Pos	_	_	_	words@iau1978m#@iau1978m#111.996#112.264
+25	мо...	мо...	X	_	_	_	_	_	words@iau1978m#@iau1978m#111.996#112.264
 26	давайте	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#112.264#112.532
-27	поговорим	говорить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#112.532#112.8
-28	на...	на...	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#112.8#113.068
+27	поговорим	поговорить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#112.532#112.8
+28	на...	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#112.8#113.068
 29	начнем	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#113.068#113.336
 30	с	с	ADP	_	_	_	_	_	words@iau1978m#@iau1978m#113.336#113.604
 31	тем...	тем...	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@iau1978m#@iau1978m#113.604#113.872
