@@ -1,7 +1,7 @@
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = russian-syntagrus-ud-2.6-200830
 # udpipe_model_licence = CC BY-NC-SA
-1	Здрасьте	здрасить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#105.12#105.352
+1	Здрасьте	здрасьте	INTJ	_	_	_	_	_	words@iau1978m#@iau1978m#105.12#105.352
 2	/	/	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#105.352#105.584
 3	спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@iau1978m#@iau1978m#105.584#105.816
 4	что	что	SCONJ	_	_	_	_	_	words@iau1978m#@iau1978m#105.816#106.048
