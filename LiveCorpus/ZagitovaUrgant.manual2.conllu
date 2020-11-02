@@ -216,7 +216,7 @@
 213	что	что	SCONJ	_	_	_	_	_	words@iau1978m#@iau1978m#202.314#202.582
 214	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@iau1978m#@iau1978m#202.582#202.85
 215	основной	основной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@iau1978m#@iau1978m#202.85#203.118
-216	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#203.118#203.386
+216	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#203.118#203.386
 217	стимул	стимул	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m#@iau1978m#203.386#203.654
 218	/	/	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#203.654#203.922
 219	да	да	PART	_	_	_	_	_	words@iau1978m#@iau1978m#203.922#204.195
@@ -489,7 +489,7 @@
 486	/	/	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#325.932#326.065
 487	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	words@iau1978m#@iau1978m#326.065#326.198
 488	не	не	PART	_	_	_	_	_	words@iau1978m#@iau1978m#326.198#326.331
-489	будем	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#326.331#326.466
+489	будем	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#326.331#326.466
 490	во-первых	во-первых	ADV	_	Degree=Pos	_	_	_	words@iau1978m#@iau1978m#326.496#326.743
 491	спасибо	спасибо	ADV	_	Degree=Pos	_	_	_	words@iau1978m#@iau1978m#326.743#326.99
 492	д...	д...	X	_	_	_	_	_	words@iau1978m#@iau1978m#326.99#327.237
@@ -606,7 +606,7 @@
 603	/	/	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#369.736#369.95
 604	э	э	INTJ	_	_	_	_	_	words@iau1978m#@iau1978m#369.95#370.164
 605	/	/	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#370.164#370.378
-606	бу...	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#370.378#370.592
+606	бу...	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#370.378#370.592
 607	/	/	PUNCT	_	_	_	_	_	words@iau1978m#@iau1978m#370.592#370.806
 608	собака	собака	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@iau1978m#@iau1978m#370.806#371.02
 609	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m#@iau1978m#371.02#371.234
