@@ -59,7 +59,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 58	в	в	ADP	_	_	_	_	_	words@dsa1974f#@dsa1974f#30.938#31.269
 59	де...	девяносто	NUM	_	Case=Nom	_	_	_	words@dsa1974f#@dsa1974f#31.269#31.6
 60	в	в	ADP	_	_	_	_	_	words@dsa1974f#@dsa1974f#31.6#31.931
-61	девяносто	девяносто	NUM	_	Case=Nom _	_	_	words@dsa1974f#@dsa1974f#31.931#32.262
+61	девяносто	девяносто	NUM	_	Case=Nom _ _ _	words@dsa1974f#@dsa1974f#31.931#32.262
 62	восьмом	восьмой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#32.262#32.593
 63	уж	уж	PART	_	_	_	_	_	words@dsa1974f#@dsa1974f#32.593#32.924
 64	в	в	ADP	_	_	_	_	_	words@dsa1974f#@dsa1974f#32.924#33.255
