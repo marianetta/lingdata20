@@ -57,7 +57,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 56	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#30.276#30.607
 57	где-то	где-то	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#30.607#30.938
 58	в	в	ADP	_	_	_	_	_	words@dsa1974f#@dsa1974f#30.938#31.269
-59	де...	девяносто	NUM	_	Case=Nom	_	_	_	words@dsa1974f#@dsa1974f#31.269#31.6
+59	де...	девяносто	NUM	_	Case=Nom	_	 _	_	words@dsa1974f#@dsa1974f#31.269#31.6
 60	в	в	ADP	_	_	_	_	_	words@dsa1974f#@dsa1974f#31.6#31.931
 61	девяносто	девяносто	NUM	_	Case=Nom  _ _ _	words@dsa1974f#@dsa1974f#31.931#32.262
 62	восьмом	восьмой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#32.262#32.593
