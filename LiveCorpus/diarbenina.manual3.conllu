@@ -29,7 +29,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 28	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#19.192#19.557
 29	вообще	вообще	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#19.557#19.922
 30	не	не	PART	_	_	_	_	_	words@dsa1974f#@dsa1974f#19.922#20.287
-31	ложится	ложиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#20.287#20.652
+31	ложится	ложиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#20.287#20.652
 32	никак	никак	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#20.652#21.017
 33	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#21.017#21.382
 34	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#21.382#21.747
@@ -109,7 +109,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 108	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#59.057#59.267
 109	девочкой	девочка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#59.267#59.477
 110	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@dsa1974f#@dsa1974f#59.477#59.687
-111	тащусь	тащиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#59.687#59.897
+111	тащусь	тащиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#59.687#59.897
 112	вообще	вообще	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#59.897#60.107
 113	от	от	ADP	_	_	_	_	_	words@dsa1974f#@dsa1974f#60.107#60.317
 114	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#60.317#60.527
@@ -121,7 +121,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 120	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#61.577#61.802
 121	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@dsa1974f#@dsa1974f#83.709#84.084
 122	просто	просто	PART	_	_	_	_	_	words@dsa1974f#@dsa1974f#84.084#84.459
-123	влюбилась	влюбиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#84.459#84.834
+123	влюбилась	влюбиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#84.459#84.834
 124	очень	очень	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#84.834#85.209
 125	сильно	сильно	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#85.209#85.584
 126	аа	а	INTJ	_	_	_	_	_	words@dsa1974f#@dsa1974f#85.584#85.959
@@ -135,16 +135,16 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 134	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_	_	words@dsa1974f#@dsa1974f#90.113#90.428
 135	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@dsa1974f#@dsa1974f#90.428#90.743
 136	так	так	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#90.743#91.058
-137	влюбилась	влюбиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#91.058#91.373
+137	влюбилась	влюбиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#91.058#91.373
 138	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#91.373#91.688
 139	просто	просто	PART	_	_	_	_	_	words@dsa1974f#@dsa1974f#91.688#92.003
 140	извини	извинить	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#92.003#92.318
 141	смачно	смачно	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#92.318#92.633
 142	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#92.633#92.948
 143	мн...	мн...	X	_	_	_	_	_	words@dsa1974f#@dsa1974f#92.948#93.263
-144	влюбилась	влюбиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#93.263#93.578
+144	влюбилась	влюбиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#93.263#93.578
 145	что	что	SCONJ	_	_	_	_	_	words@dsa1974f#@dsa1974f#93.578#93.893
-146	начались	начаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#93.893#94.208
+146	начались	начаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#93.893#94.208
 147	ээ	ээ	INTJ	_	_	_	_	_	words@dsa1974f#@dsa1974f#94.208#94.523
 148	ээм	эм	INTJ	_	_	_	_	_	words@dsa1974f#@dsa1974f#94.523#94.838
 149	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#94.838#95.153
@@ -194,7 +194,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 193	н...	н...	X	_	_	_	_	_	words@dsa1974f#@dsa1974f#116.999#117.255
 194	в	в	ADP	_	_	_	_	_	words@dsa1974f#@dsa1974f#117.255#117.511
 195	процессе	процесс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#117.511#117.767
-196	менялся	меняться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#117.767#118.023
+196	менялся	меняться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#117.767#118.023
 197	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#118.023#118.279
 198	но	но	CCONJ	_	_	_	_	_	words@dsa1974f#@dsa1974f#118.279#118.535
 199	как	как	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#118.535#118.791
@@ -262,7 +262,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 261	и	и	CCONJ	_	_	_	_	_	words@dsa1974f#@dsa1974f#136.366#136.662
 262	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#136.662#136.958
 263	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@dsa1974f#@dsa1974f#136.958#137.254
-264	могу	мочь	VERB	_	Aspect=Imp|Mood=Pot|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#137.254#137.55
+264	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#137.254#137.55
 265	вдруг	вдруг	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#137.55#137.846
 266	заплакать	заплакать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#137.846#138.142
 267	вот	вот	PART	_	_	_	_	_	words@dsa1974f#@dsa1974f#138.142#138.438
@@ -275,7 +275,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 274	что	что	SCONJ	_	_	_	_	_	words@dsa1974f#@dsa1974f#140.214#140.51
 275	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#140.51#140.806
 276	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@dsa1974f#@dsa1974f#140.806#141.102
-277	могу	мочь	VERB	_	Aspect=Imp|Mood=Pot|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#141.102#141.398
+277	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#141.102#141.398
 278	не	не	PART	_	_	_	_	_	words@dsa1974f#@dsa1974f#141.398#141.694
 279	сдержаться	сдержаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#141.694#141.99
 280	вдруг	вдруг	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#141.99#142.286
@@ -299,7 +299,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 298	хотя	хотя	SCONJ	_	_	_	_	_	words@dsa1974f#@dsa1974f#147.318#147.614
 299	вообще	вообще	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#147.614#147.91
 300	отпор	отпор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#147.91#148.206
-301	могу	мочь	VERB	_	Aspect=Imp|Mood=Pot|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#148.206#148.502
+301	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#148.206#148.502
 302	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#148.502#148.798
 303	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#148.798#149.094
 304	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#149.094#149.408
@@ -309,7 +309,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 308	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#150.68#150.998
 309	но	но	CCONJ	_	_	_	_	_	words@dsa1974f#@dsa1974f#150.998#151.316
 310	что	что	PRON	_	Case=Nom	_	_	_	words@dsa1974f#@dsa1974f#151.316#151.634
-311	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#151.634#151.952
+311	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#151.634#151.952
 312	вот	вот	PART	_	_	_	_	_	words@dsa1974f#@dsa1974f#151.952#152.27
 313	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#152.27#152.588
 314	проявлений	проявление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	words@dsa1974f#@dsa1974f#152.588#152.906
@@ -386,7 +386,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 385	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#175.166#175.545
 386	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@dsa1974f#@dsa1974f#175.636#175.922
 387	перестала	перестать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#175.922#176.208
-388	улыбаться	улыбаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#176.208#176.494
+388	улыбаться	улыбаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#176.208#176.494
 389	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#176.494#176.78
 390	ну	ну	PART	_	_	_	_	_	words@dsa1974f#@dsa1974f#176.78#177.066
 391	и	и	CCONJ	_	_	_	_	_	words@dsa1974f#@dsa1974f#177.066#177.352
@@ -458,7 +458,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 457	ко	к	ADP	_	_	_	_	_	words@dsa1974f#@dsa1974f#195.942#196.228
 458	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@dsa1974f#@dsa1974f#196.228#196.514
 459	хорошо	хорошо	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#196.514#196.8
-460	относятся	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#196.8#197.086
+460	относятся	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#196.8#197.086
 461	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#197.086#197.372
 462	здорово	здорово	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#197.372#197.658
 463	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#197.658#197.944
@@ -609,7 +609,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 608	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#246.83#247.167
 609	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#247.167#247.504
 610	достаточно	достаточный	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#247.504#247.841
-611	пообщаться	пообщаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#247.841#248.178
+611	пообщаться	пообщаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#247.841#248.178
 612	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	words@dsa1974f#@dsa1974f#248.178#248.515
 613	пятнадцать	пятнадцать	NUM	_	Case=Nom	_	_	_	words@dsa1974f#@dsa1974f#248.515#248.852
 614	двадцать	двадцать	NUM	_	Case=Nom	_	_	_	words@dsa1974f#@dsa1974f#248.852#249.189
@@ -721,7 +721,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 720	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#294.674#294.847
 721	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#294.847#295.023
 722	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#295.857#296.133
-723	ограничимся	ограничиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#296.133#296.409
+723	ограничимся	ограничиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#296.133#296.409
 724	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#296.409#296.685
 725	щас	щас	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#296.685#296.961
 726	просто	просто	PART	_	_	_	_	_	words@dsa1974f#@dsa1974f#296.961#297.237
@@ -815,7 +815,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 814	оберегать	оберегать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#331.822#332.141
 815	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#332.141#332.46
 816	что	что	SCONJ	_	_	_	_	_	words@dsa1974f#@dsa1974f#332.46#332.779
-817	поселилось	поселиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#332.779#333.098
+817	поселилось	поселиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#332.779#333.098
 818	в	в	ADP	_	_	_	_	_	words@dsa1974f#@dsa1974f#333.098#333.417
 819	тебе	ты	PRON	_	Case=Loc|Number=Sing|Person=2	_	_	_	words@dsa1974f#@dsa1974f#333.417#333.736
 820	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#333.736#334.055
@@ -833,7 +833,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 832	беременными	беременный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	words@dsa1974f#@dsa1974f#338.372#338.758
 833	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#338.758#339.144
 834	которые	который	PRON	_	Case=Nom	_	_	_	words@dsa1974f#@dsa1974f#339.144#339.53
-835	фотографируются	фотографироваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@dsa1974f#@dsa1974f#339.53#339.916
+835	фотографируются	фотографироваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#339.53#339.916
 836	в	в	ADP	_	_	_	_	_	words@dsa1974f#@dsa1974f#339.916#340.302
 837	разных	разный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	_	_	_	words@dsa1974f#@dsa1974f#340.302#340.688
 838	стадиях	стадия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	words@dsa1974f#@dsa1974f#340.688#341.074
@@ -1086,7 +1086,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 1085	/	/	PUNCT	_	_	_	_	_	words@iys1984f#@iys1984f#102.014#102.288
 1086	после	после	ADP	_	_	_	_	_	words@iys1984f#@iys1984f#114.731#115.109
 1087	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@iys1984f#@iys1984f#115.109#115.487
-1088	поменялся	поменяться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@iys1984f#@iys1984f#115.487#115.865
+1088	поменялся	поменяться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@iys1984f#@iys1984f#115.487#115.865
 1089	номер	номер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iys1984f#@iys1984f#115.865#116.243
 1090	телефона	телефон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@iys1984f#@iys1984f#116.243#116.621
 1091	?	?	PUNCT	_	_	_	_	_	words@iys1984f#@iys1984f#116.621#116.999
@@ -1097,7 +1097,7 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 1096	/	/	PUNCT	_	_	_	_	_	words@iys1984f#@iys1984f#122.225#122.44
 1097	чтоб	чтобы	SCONJ	_	Mood=Cnd	_	_	_	words@iys1984f#@iys1984f#122.44#122.655
 1098	не	не	PART	_	_	_	_	_	words@iys1984f#@iys1984f#122.655#122.87
-1099	дозвонился	дозвониться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@iys1984f#@iys1984f#122.87#123.085
+1099	дозвонился	дозвониться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@iys1984f#@iys1984f#122.87#123.085
 1100	?	?	PUNCT	_	_	_	_	_	words@iys1984f#@iys1984f#123.085#123.3
 1101	а	а	PART	_	_	_	_	_	words@iys1984f#@iys1984f#126.239#126.473
 1102	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@iys1984f#@iys1984f#126.473#126.707
@@ -1184,11 +1184,11 @@ ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 1183	объясняют	объяснять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iys1984f#@iys1984f#275.211#275.426
 1184	детям	ребенок	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	_	_	_	words@iys1984f#@iys1984f#275.426#275.641
 1185	когда	когда	SCONJ	_	_	_	_	_	words@iys1984f#@iys1984f#275.641#275.856
-1186	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iys1984f#@iys1984f#275.856#276.071
+1186	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@iys1984f#@iys1984f#275.856#276.071
 1187	папы	папа	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@iys1984f#@iys1984f#276.071#276.286
 1188	?	?	PUNCT	_	_	_	_	_	words@iys1984f#@iys1984f#276.286#276.509
 1189	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	words@iys1984f#@iys1984f#283.595#283.799
-1190	общаются	общаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@iys1984f#@iys1984f#283.799#284.003
+1190	общаются	общаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iys1984f#@iys1984f#283.799#284.003
 1191	с	с	ADP	_	_	_	_	_	words@iys1984f#@iys1984f#284.003#284.207
 1192	отцом	отец	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@iys1984f#@iys1984f#284.207#284.411
 1193	?	?	PUNCT	_	_	_	_	_	words@iys1984f#@iys1984f#284.411#284.619
