@@ -1,4 +1,3 @@
-ID	Word	Lemma	POS	Extra	Features	Head Position	Relation	_	(Everything Else)
 1	сначала	сначала	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#8.228#8.515
 2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@dsa1974f#@dsa1974f#8.515#8.802
 3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#8.802#9.089
