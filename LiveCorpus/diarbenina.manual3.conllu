@@ -131,7 +131,7 @@
 131	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#87.459#87.838
 132	ой	ой	X	_	_	_	_	_	words@dsa1974f#@dsa1974f#89.483#89.798
 133	/	/	PUNCT	_	_	_	_	_	words@dsa1974f#@dsa1974f#89.798#90.113
-134	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_	_	words@dsa1974f#@dsa1974f#90.113#90.428
+134	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_ _ _	words@dsa1974f#@dsa1974f#90.113#90.428
 135	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@dsa1974f#@dsa1974f#90.428#90.743
 136	так	так	ADV	_	Degree=Pos	_	_	_	words@dsa1974f#@dsa1974f#90.743#91.058
 137	влюбилась	влюбиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dsa1974f#@dsa1974f#91.058#91.373
